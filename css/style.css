@@ -13,9 +13,11 @@ hr {
 h1 {
   color: #66bfbf;
   font-family: cursive;
+  font-size: 70px;
 }
 
 h3 {
   color: #66bfbf;
-  font-family: cursive;
+    font-family: cursive;
+    font-size: 25px;
 }
